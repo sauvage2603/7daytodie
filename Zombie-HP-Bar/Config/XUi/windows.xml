@@ -1,0 +1,3 @@
+<config>
+	<setattribute xpath="//window[@name='windowTargetBar']" name="visibility">always</setattribute>
+</config>
